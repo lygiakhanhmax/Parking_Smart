@@ -20,7 +20,8 @@
 ## 🌟 Sơ Đồ Kết Nối Mạch
 </p>
 <p align="center">
-![SoDoKetNoi](https://github.com/user-attachments/assets/ff67d24e-03ab-46b8-9c8e-1be049b58d5d)
+
+![SoDoKetNoi](https://github.com/user-attachments/assets/74e78e37-157e-4a87-a7ca-daab875c0b3b)
 
 </p>
 
@@ -30,7 +31,7 @@
 ## 🌟 WEB QUẢN LÝ (Minh họa)
 </p>
 <p align="center">
-<img src="ParkingSmart\GiaoDienQuanLyMinhHoa.jpg" width="700"/>
+![GiaoDienQuanLyMinhHoa](https://github.com/user-attachments/assets/d572a1ef-b1b2-4272-a7c9-849658d2ef28)
 
 </p>
 
